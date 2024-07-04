@@ -4,7 +4,11 @@
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* ChatGPT for script creation: https://chat.openai.com/chat
+* MidJourney for image generation: https://www.midjourney.com
+* Elevenlabs for audio generation: beta.elevenlabs.io
+* D-ID for video generation: https://studio.d-id.com/
+* Reddit post: https://tinyurl.com/ycyufjeu
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
