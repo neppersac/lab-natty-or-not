@@ -6,7 +6,7 @@ Breve descrição do seu projeto
 ## 🤖 Tecnologias Utilizadas
 * ChatGPT for script creation: https://chat.openai.com/chat
 * MidJourney for image generation: https://www.midjourney.com
-* Elevenlabs for audio generation: beta.elevenlabs.io
+* Elevenlabs for audio generation: https://beta.elevenlabs.io
 * D-ID for video generation: https://studio.d-id.com/
 * Reddit post: https://tinyurl.com/ycyufjeu
 
