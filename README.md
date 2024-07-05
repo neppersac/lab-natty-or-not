@@ -1,18 +1,18 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Visão computacional - Explorando a OpenCV
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar um avatar virtual para apresentar uma introdução do OpenVC
 
 ## 🤖 Tecnologias Utilizadas
 * ChatGPT for script creation: https://chat.openai.com/chat
-* https://aiapp.vidnoz.com/video/index.html
-* MidJourney for image generation: https://www.midjourney.com
-* Elevenlabs for audio generation: https://beta.elevenlabs.io
+* Vidnoz: https://aiapp.vidnoz.com/video/index.html
+* Capcut: https://www.capcut.com
+* 
 * D-ID for video generation: https://studio.d-id.com/
 * Reddit post: https://tinyurl.com/ycyufjeu
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o ChatGPT para gerar o texto, depois usei o Vidnoz para criar o avatar, criei a capa do video com o bing image e por fim usei o Capcut para editar o video final. 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
